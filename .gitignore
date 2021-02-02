@@ -9,6 +9,11 @@
 /.idea/assetWizardSettings.xml
 .DS_Store
 /build
+/.idea
+/.gradle
+/gradle
+/gradlew
+/gradlew.bat
 /captures
 .externalNativeBuild
 .cxx
