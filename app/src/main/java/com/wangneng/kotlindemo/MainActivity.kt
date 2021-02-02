@@ -21,7 +21,6 @@ class MainActivity : AppCompatActivity() {
         val manager = LinearLayoutManager(this)
         rv.layoutManager = manager
         rv.adapter = adapter
-        adapter.set
 
 
 
